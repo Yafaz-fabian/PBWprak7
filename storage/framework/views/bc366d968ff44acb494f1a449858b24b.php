@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\news-app\resources\views/news/show.blade.php ENDPATH**/ ?>
